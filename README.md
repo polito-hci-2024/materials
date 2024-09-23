@@ -4,7 +4,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 
 ## Slides
 
-* Introduction to the course)
+* [Introduction to the course](./slides/00-intro.pdf)
 * What is HCI?
 * Needfinding
   * Exercise
