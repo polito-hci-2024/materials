@@ -8,7 +8,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 * [Themes and projects overview](./slides/00-themes-projects-overview.pdf)
 * [What is HCI?](./slides/01-whatisHCI.pdf)
 * [Needfinding](./slides/02-needfinding.pdf)
-  * Exercise
+  * [Exercise](./slides/02b-needfinding-exercise.pdf)
   * Exercise developed together
 * Analyzing and Synthetizing
   * Exercise
