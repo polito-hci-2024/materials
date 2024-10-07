@@ -9,8 +9,8 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 * [What is HCI?](./slides/01-whatisHCI.pdf)
 * [Needfinding](./slides/02-needfinding.pdf)
   * [Exercise](./slides/02b-needfinding-exercise.pdf)
-  * Exercise developed together
-* Analyzing and Synthetizing
+  * [Exercise developed together](./slides/02b-needfinding-exercise.pdf)
+* [Analyzing and Synthetizing](./slides/03-analyzing.pdf)
   * Exercise
 * Design Theory, Principles and Guidelines
 * Intro to Prototyping and Low-fi Prototypes
