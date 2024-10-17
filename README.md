@@ -28,7 +28,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 
 ## Assignments
 * [Assignment 1 - Needfinding](./assignments/A1-needfinding.pdf)
-* Assignment 2 - Storyboard and Low-fi Prototypes
+* [Assignment 2 - Storyboard and Low-fi Prototypes](./assignments/A2-storyboard-paper-prototypes.pdf)
 * Assignment 3 - Heuristic evaluation
 * Assignment 4 - Medium to High-fidelity Prototype
 * Assignment 5 - High-fidelity Prototype
