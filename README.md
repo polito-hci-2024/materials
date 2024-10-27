@@ -15,7 +15,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 * [Design Principles](./slides/04-design-principles.pdf)
 * [Intro to Prototyping and Low-fi Prototypes](./slides/05-low-fi-prototypes.pdf)
   * [Exercise on low-fi prototypes](./slides/05b-low-fi-prototypes-exercise.pdf)
-* Visual Design
+* [Visual Design](./slides/06-visual-design.pdf)
 * Evaluation Overview and Heuristic Evaluation
   * Exercise on heuristic evaluation
 * Design Patterns
