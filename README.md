@@ -19,11 +19,11 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 * [Evaluation Overview and Heuristic Evaluation](./slides/07-heuristic-evaluation.pdf)
   * [Exercise on heuristic evaluation](./slides/07b-heuristic-evaluation-exercise.pdf)
 * [Design Guidelines and Patterns](./slides/08-design-guidelines-patterns.pdf)
-* Interacting with AI
+* [Interacting with AI](./slides/09-human-ai-interaction.pdf)
 * [Medium Fidelity Prototypes](./slides/10-mid-fi-prototypes.pdf)
-* High Fidelity Prototypes
+* [High Fidelity Prototypes](./slides/11-hi-fi-prototypes.pdf)
   * Options for Implementing (discussed in class)
-* Usability Testing
+* [Usability Testing](./slides/12-usability-testing.pdf)
 
 
 ## Assignments
